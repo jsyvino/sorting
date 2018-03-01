@@ -26,4 +26,4 @@ describe('Split Array function', function() {
     it('is able to merge two sorted arrays into one sorted array', function() {
         expect( mergeSort([7,4,2,3,6,5,1,7,0,-5]) ).toEqual( [-5,0,1,2,3,4,5,6,7,7]);
     });
-  });
+  }); 

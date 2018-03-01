@@ -55,4 +55,4 @@ function mergeSort(arr){
     console.log('output ',outputarr2);
 
     return outputarr2;
-}
+} 
